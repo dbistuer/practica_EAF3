@@ -291,7 +291,7 @@ Feu les tasques següents:
    insert into client values(1,row(1,'dani','almata n5','balaguer',25617,699780294));
    ```
 
-4. Creeu una taula comandes. Utilitzeu el tipus adreça creat anteriorment i indiqueu que el camp número d’ordre serà l’identificador. **Com es modificarà el codi si utilitzem OID?**
+4. Creeu una taula comandes. Utilitzeu el tipus adreça creat anteriorment i indiqueu que el camp número d’ordre serà l’identificador. Com es modificarà el codi si utilitzem OID?
 
    ```plsql
    CREATE TABLE COMANDES(
