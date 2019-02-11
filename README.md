@@ -201,7 +201,7 @@ BASKET_PLAYER ( nom, alçada, pes, posicio, equip);
        jugador T_BASKET_PLAYER
    
    );
-   ```
+   ```plsql
 
 3. Mostreu diferents insercions a la taula i mostrar com utilitzeu el tipus i la taula.
 
